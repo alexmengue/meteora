@@ -11,5 +11,7 @@
 }
 
 .btn-purple {
-    background-color: #9353FF;
+    background-color: #9353FF !important;
+    border: none !important;
+    border-radius: 0 !important;
 }
